@@ -1,0 +1,14 @@
+server:
+  port: 8000
+spring:
+  cloud:
+    config:
+      server:
+         git:
+           default-label: usuario-config-service
+             uri:https://github.com/devhuitzil/user-microservice
+             uri:https://github.com/devhuitzil/carro-microservice
+             uri:https://github.com/devhuitzil/moto-microservice
+           search-paths: config-data
+  application:
+    name: config-service
