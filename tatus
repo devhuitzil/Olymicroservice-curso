@@ -1,0 +1,35 @@
+[33mcommit b7bf37c01b13d3bff88ee3d12e03b758e2b564ad[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: devhuitzil <devhuitzil@gmail.com>
+Date:   Wed Dec 7 10:07:52 2022 -0600
+
+    Revert "config service deleted"
+    
+    This reverts commit 5d5f89e379e0b4fd2b524ec908844bf1912ef120.
+
+[33mcommit 555cc64e0832771f75dcbb38d3b872d38db3b307[m
+Author: devhuitzil <devhuitzil@gmail.com>
+Date:   Wed Dec 7 10:06:56 2022 -0600
+
+    Revert "Revert "res Templeta and Feign Client""
+    
+    This reverts commit 186918d4c8d0ee31f7cc1f2a16f8cdd23ed231f6.
+
+[33mcommit 186918d4c8d0ee31f7cc1f2a16f8cdd23ed231f6[m
+Author: devhuitzil <devhuitzil@gmail.com>
+Date:   Wed Dec 7 10:05:42 2022 -0600
+
+    Revert "res Templeta and Feign Client"
+    
+    This reverts commit 12f66c5b47c0b199f6c7eca3ed76f907a59127c6.
+
+[33mcommit 5d5f89e379e0b4fd2b524ec908844bf1912ef120[m
+Author: devhuitzil <devhuitzil@gmail.com>
+Date:   Wed Dec 7 09:50:05 2022 -0600
+
+    config service deleted
+
+[33mcommit 12f66c5b47c0b199f6c7eca3ed76f907a59127c6[m
+Author: devhuitzil <devhuitzil@gmail.com>
+Date:   Tue Dec 6 14:52:32 2022 -0600
+
+    res Templeta and Feign Client
