@@ -5,8 +5,8 @@ spring:
     config:
       server:
          git:
-           default-label: usuario-config-server
-              uri: https://github.com/devhuitzil/Olymicroservice-curso 
-              search-paths: config-data
+           default-label: config-server
+           uri: https://github.com/devhuitzil/Olymicroservice-curso/micros 
+           search-paths: config-data
   application:
     name: config-service
